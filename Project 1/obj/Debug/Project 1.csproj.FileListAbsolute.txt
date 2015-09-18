@@ -1,0 +1,9 @@
+C:\Users\Kyle\Documents\BYU\CS312\Project 1\Project 1\bin\Debug\Project 1.exe.config
+C:\Users\Kyle\Documents\BYU\CS312\Project 1\Project 1\obj\Debug\Project 1.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\BYU\CS312\Project 1\Project 1\obj\Debug\Project_1.Form1.resources
+C:\Users\Kyle\Documents\BYU\CS312\Project 1\Project 1\obj\Debug\Project_1.Properties.Resources.resources
+C:\Users\Kyle\Documents\BYU\CS312\Project 1\Project 1\obj\Debug\Project 1.csproj.GenerateResource.Cache
+C:\Users\Kyle\Documents\BYU\CS312\Project 1\Project 1\bin\Debug\Project 1.exe
+C:\Users\Kyle\Documents\BYU\CS312\Project 1\Project 1\bin\Debug\Project 1.pdb
+C:\Users\Kyle\Documents\BYU\CS312\Project 1\Project 1\obj\Debug\Project 1.exe
+C:\Users\Kyle\Documents\BYU\CS312\Project 1\Project 1\obj\Debug\Project 1.pdb
